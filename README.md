@@ -2,10 +2,13 @@
 
 > A Vue.js project
 
-## Editor: 
+### Editor: 
 Visual Studio Code
 
-## Build Setup
+### Instalação: 
+Node.js https://nodejs.org/en/
+
+### Build Setup
 
 ``` bash
 # install dependencies
